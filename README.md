@@ -99,3 +99,23 @@ I'm Parishrut Singh Bisht — an engineer with an MBA, focused on the intersecti
 I'm drawn to growth marketing because it's one of the few fields where structured thinking, creativity, and execution all matter equally. This project is a small example of how I work: when something doesn't work, I don't stop — I find another way.
 
 📧 psb.zx244@gmail.com
+
+---
+
+## 📁 Research Project — AI-Powered SEO Content Production
+
+As part of the second stage of the 100Hires portfolio process, I selected AI-Powered SEO Content Production as my research topic and built a structured research repository.
+
+### Why This Topic
+AI is fundamentally changing how content gets discovered, how brands show up in search, and how marketing teams need to think about organic visibility. This is the most strategically relevant topic for a growth marketing role in 2026.
+
+### What I Collected
+I researched 10 high-signal experts across two formats. 5 LinkedIn experts were selected for their written frameworks and original data on AI search strategy. 5 YouTube experts were selected for their in-depth practical experience with SEO, content operations, and algorithm behavior.
+
+### Expert Selection Criteria
+I prioritized practitioners over commentators. Every expert selected either runs their own experiments, manages real client campaigns, or publishes original research with verifiable data. I deliberately avoided generalist influencers who aggregate other people's ideas.
+
+### Repository Structure
+- `/research/sources.md` — full list of experts with annotations
+- `/research/linkedin-posts/` — posts organized by author
+- `/research/youtube-transcripts/` — transcripts organized by expert and video
